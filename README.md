@@ -31,6 +31,7 @@ Framework: Bootstrap, ASP.NET Core.
 
 Database: SQL Server.
 
+AI: Chatbox tư vấn khách hàng
 
 + **Yêu cầu chức năng**
 
