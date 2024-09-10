@@ -123,8 +123,7 @@ Tích hợp giữa giao diện web và ứng dụng WinForm trong hệ thống C
                 <td>2</td>
                 <td>Thống kê doanh thu</td>
                 <td></td>
-            </tr>
-          
+            </tr>   
         </tbody>
     </table>
 
