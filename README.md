@@ -31,7 +31,6 @@ Framework: Bootstrap, ASP.NET Core.
 
 Database: SQL Server.
 
-AI: Chatbox tư vấn khách hàng
 
 + **Yêu cầu chức năng**
 
@@ -42,6 +41,8 @@ Coffee House là một hệ thống đa nền tảng thiết kế để cung c�
 Đối với các quản lý quán cà phê, Coffee House cung cấp một ứng dụng quản lý trên nền tảng WinForm. Ứng dụng này được thiết kế để hỗ trợ quản lý hiệu quả các hoạt động của quán, từ việc theo dõi đơn hàng, kiểm tra tồn kho, đến quản lý nhân viên và phân tích doanh thu. Các tính năng tích hợp trong ứng dụng WinForm giúp quản lý có cái nhìn tổng quan về tình hình kinh doanh, thực hiện các thao tác dễ dàng và nhanh chóng, từ đó cải thiện hiệu suất và quy trình hoạt động của quán.
 
 Tích hợp giữa giao diện web và ứng dụng WinForm trong hệ thống Coffee House tạo ra một giải pháp đồng bộ và hiệu quả. Khi người dùng đặt hàng qua web, thông tin sẽ được cập nhật ngay lập tức trên hệ thống quản lý WinForm, giúp đội ngũ quán cà phê xử lý đơn hàng kịp thời và chính xác. Sự tích hợp này không chỉ mang lại sự tiện lợi cho khách hàng mà còn nâng cao khả năng quản lý và vận hành cho các chủ quán, giúp cải thiện tổng thể dịch vụ và sự hài lòng của khách hàng.
+
+**AI: Chatbox tư vấn khách hàng**
 
 **Web**
 
